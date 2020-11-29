@@ -1,0 +1,10 @@
+Operations.java: 
+	getShort: 5.0/5.0
+	setNibble: 5.0/5.0
+	pack: 5.0/5.0
+	bitRange: 5.0/5.0
+	xor: 5.0/5.0
+	multipleOf2: 5.0/5.0
+	multipleOf32: 5.0/5.0
+	Perfect!
+Final Grade: 35.0/35.0
